@@ -39,7 +39,7 @@ export const SkillsSection = () => {
       <div className="container mx-auto px-4 md:px-8 relative z-10">
         <FadeInLeft>
           <h2 className="text-3xl md:text-4xl font-bold mb-12 flex items-center gap-4">
-            <span className="section-number">04.</span>
+            <span className="section-number">03.</span>
             Skills & Technologies
           </h2>
         </FadeInLeft>
